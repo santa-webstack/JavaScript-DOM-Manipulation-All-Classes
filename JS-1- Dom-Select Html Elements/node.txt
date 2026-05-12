@@ -1,0 +1,11 @@
+what is DOM - Object Oriented Model
+ 1. select HTML  Elements Using DOM
+
+
+ getElementByID()
+ getElementsByClassName()
+ getElementsByName()
+ getElementsByTagName()
+ QuarrySelector()
+ QuarrySelectorAll()
+ 
